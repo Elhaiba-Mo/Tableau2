@@ -1,1 +1,2 @@
 # Tableau2
+The dashboard titled "Gender gap in education" visualizes differences in educational enrollment and attainment between males and females across various countries and income groups. It highlights how gender disparities vary by region and income level, showing trends in primary, secondary, and tertiary education. The visual emphasizes progress made toward closing the gender gap, while also spotlighting persistent inequalities, especially in low-income countries.
